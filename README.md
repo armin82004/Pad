@@ -1,3 +1,4 @@
+![Pad Preview](pad-img.png)
 # Pad
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/914fd329-3a60-4a3f-943e-3774f5878842/deploy-status)](https://app.netlify.com/sites/pad-note/deploys)
